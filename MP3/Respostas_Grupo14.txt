@@ -1,0 +1,6 @@
+Q1: B
+Q2: UDP_FLOOD
+Q3: Victim: 192.168.1.248 - Attacker: 192.168.1.205
+Q4: 845 packets
+Q5: 1
+Q6: 10.0 minutes
